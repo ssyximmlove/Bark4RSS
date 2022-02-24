@@ -1,3 +1,3 @@
 fun main() {
-    bark("fakedeviceid","title","textbody")
+    bark("fakeid","测试","仅仅是一条测试消息")
 }
